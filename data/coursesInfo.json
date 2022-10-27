@@ -3,6 +3,9 @@
         "id": 1,
         "name": "Data Structures & Algorithm",
         "image": "https://www.passionateinmarketing.com/wp-content/uploads/2021/10/maxresdefault-199.jpg",
+        "lecturer": "Mr. Khan",
+        "lectures": "300",
+        "duration": "7 months",
         "shortDetails": "Learning data structures and algorithms allow us to write efficient and optimized computer programs.",
         "moreDetails": "Data structure and algorithms are two of the most important aspects of computer science. Data structures allow us to organize and store data, while algorithms allow us to process that data in a meaningful way. Learning data structure and algorithms will help you become a better programmer. Our course is for absoutly begineer to advance with contininous problem solving that will help you much comfort about all topics."
     },
@@ -10,6 +13,9 @@
         "id": 2,
         "name": "Operating System",
         "image": "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/operating-systems-from-scratch-part1-uzr5e0je.jpg",
+        "lecturer": "Mrs. Alexa",
+        "lectures": "150",
+        "duration": "3 months",
         "shortDetails": "A Free Online Basic Course On Operating Systems Scheduling Revised - With Certificate. Find the right instructor for you. Choose from many topics, skill levels, and languages.",
         "moreDetails": "An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language.Without an operating system, a computer is useless. You will learn everything from scratch to more advance about Operating System from our course."
     },
@@ -17,6 +23,9 @@
         "id": 3,
         "name": "Database Management System(DBMS)",
         "image": "https://www.mycslab.in/wp-content/uploads/2020/01/database-management-system.jpg",
+        "lecturer": "Mr. Khan",
+        "lectures": "150",
+        "duration": "3 months",
         "shortDetails": "Enroll in our free online database management system course and learn what is database management system and how does rational database management system works.",
         "moreDetails": "A database management system (DBMS) is system software for creating and managing databases. A DBMS makes it possible for end users to create, protect, read, update and delete data in a database. The most prevalent type of data management platform, the DBMS essentially serves as an interface between databases and users or application programs, ensuring that data is consistently organized and remains easily accessible.You will learn everything from scratch to more advance about DBMS from our course."
     },
@@ -24,6 +33,9 @@
         "id": 4,
         "name": "Computer Networks",
         "image": "https://s3.amazonaws.com/coursesity-blog/2021/04/Computer_Network_Classes.png",
+        "lecturer": "Mr. Khan",
+        "lectures": "150",
+        "duration": "3 months",
         "shortDetails": "Learn Computer Network online at your own pace. Start today and improve your skills. Join millions of learners from around the world already learning on Coders-info-bd. Lifetime Access. Download To Your Phone.",
         "moreDetails": "A network is multiple computers connected together in order to share information, resources, and files between them. Not only does computer networking involve the design and configuration of a network, but the ongoing maintenance of the network as well including monitoring, optimization, and upgrades.As technologies have evolved, networking has too. While networking used to be a bunch of desktop computers connected by wires and cables, these days networking includes wireless systems and connections and other advanced technologies. You will learn everything from begineer to more advance about computer networks from our course."
     },
@@ -31,6 +43,9 @@
         "id": 5,
         "name": "Object Oriented Programming with Python",
         "image": "https://miro.medium.com/max/1400/1*TIyf0_kfMRRiJQFAUgp0QQ.png",
+        "lecturer": "Mr. Khan",
+        "lectures": "100",
+        "duration": "3 months",
         "shortDetails": "Take online object-oriented programming courses. Learn about object-oriented programming from coders-info-bd.",
         "moreDetails": "Object-oriented programming (OOP) is a fundamental programming paradigm used by nearly every developer at some point in their career. OOP is the most popular programming paradigm and is taught as the standard way to code for most of a programmers educational career. Coders-info-bd offers 100 Object Oriented Programming courses from top universities and companies to help you start or advance your career skills in Object Oriented Programming."
     },
@@ -38,6 +53,9 @@
         "id": 6,
         "name": "Cloud Computing",
         "image": "https://miro.medium.com/max/640/1*ngkHgQq7ij1NBNr62er3zA.png",
+        "lecturer": "Mr. Khan",
+        "lectures": "150",
+        "duration": "3 months",
         "shortDetails": "Take online cloud computing courses from top schools and institutions. Learn about cloud computing to advance your education and career with Coders-info-Bd today!",
         "moreDetails": "Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each location being a data center.Take online Cloud Computing courses. Learn about Cloud Computing from coders-info-bd."
     }
