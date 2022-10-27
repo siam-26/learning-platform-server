@@ -2,6 +2,9 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 5000;
+require('dotenv').config();
+
+console.log(process.env);
 
 const coursesInfo = require('./data/coursesInfo.json');
 
@@ -16,6 +19,11 @@ app.get('/course-info/:id', (req, res) => {
     const id = parseInt(req.params.id);
     const selectedCourse = coursesInfo.find(course => course.id === id);
     res.send(selectedCourse);
+})
+app.get('/checkout/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const checkOut = coursesInfo.find(course => course.id === id);
+    res.send(checkOut);
 })
 
 app.get('/', (req, res) => {
