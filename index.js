@@ -1,10 +1,8 @@
+require('dotenv').config();
 const express = require('express');
 const app = express();
 const cors = require('cors');
 const port = process.env.PORT || 5000;
-require('dotenv').config();
-
-console.log(process.env);
 
 const coursesInfo = require('./data/coursesInfo.json');
 
